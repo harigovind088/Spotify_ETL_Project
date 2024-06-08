@@ -2,7 +2,7 @@
 
 
 ## Introduction
-In this pipeline, we develop an ETL process using the Spotify API. It retrieves data from the Spotify API, transforms it into the required format, and loads it into an AWS data store.
+In this project, an ETL pipeline process using the Spotify API is developed. It retrieves data from the Spotify API, transforms it into the required format, and loads it into an AWS data store.
 
 ## Architecture
 ![Spotify_Architecture](https://github.com/harigovind088/Spotify_ETL_Project/assets/80459421/7d222fcd-1a65-4c35-b8db-a0bd42be021c)
